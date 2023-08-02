@@ -1,2 +1,2 @@
 # bpha-townsq
-TownSq website content for Bill Point Homeowners Association
+This is the TownSq website content for Bill Point Homeowners Association.
